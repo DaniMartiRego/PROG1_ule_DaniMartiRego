@@ -1,0 +1,10 @@
+1. raqueta         https://dle.rae.es/raqueta?m=form
+2. zapato          https://dle.rae.es/zapato?m=form
+3. descubrimiento  https://dle.rae.es/descubrimiento?m=form
+4. celebridad      https://dle.rae.es/celebridad?m=form
+5. estrella        https://dle.rae.es/estrella?m=form
+6. noche           https://dle.rae.es/noche?m=form
+7. luciérnaga      https://dle.rae.es/luci%C3%A9rnaga?m=form
+8. rabia           https://dle.rae.es/rabia?m=form
+9. calamar         https://dle.rae.es/calamar?m=form
+10.sed             https://dle.rae.es/sed
